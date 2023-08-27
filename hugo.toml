@@ -154,14 +154,11 @@ title = "Hannah Busshoff"
     RSS = ""
 
 [languages.en.params.social]
-        GitHub = "xxxx"
-        Twitter = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
+        GitHub = "hannbus"
+        Twitter = "hannbus"
+        Researchgate = "Hannah-Busshoff-2"
+        Phone = "+41712242301"
+        Email = "hannah.busshoff@unisg.ch"
         RSS = true
 
 # language code
