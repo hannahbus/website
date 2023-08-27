@@ -49,7 +49,7 @@ Teaching Experience <span>&#127823;</span>
 
 since 2021
 
-: Tutor and Teaching Assistent for Data Analytics II (Master), University of St. Gallen
+: Tutor and Teaching Assistant for Data Analytics II (Master), University of St. Gallen
 
 since 2020
 
