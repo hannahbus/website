@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://example.org/</link>
+        <description>Hello</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hannah.busshoff@unisg.ch (Hannah Busshoff)</managingEditor>
+            <webMaster>hannah.busshoff@unisg.ch (Hannah Busshoff)</webMaster><lastBuildDate>Fri, 25 Aug 2023 09:27:47 &#43;0200</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Hello world!</title>
+    <link>http://example.org/posts/first_post/</link>
+    <pubDate>Fri, 25 Aug 2023 09:27:47 &#43;0200</pubDate>
+    <author>Hannah Busshoff</author>
+    <guid>http://example.org/posts/first_post/</guid>
+    <description><![CDATA[This is the first post. Stay tuned for the next post, where I give details on how I constructed the website and give a shout-out if you like the website ❤!]]></description>
+</item>
+</channel>
+</rss>
