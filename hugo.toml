@@ -8,7 +8,7 @@ description = "Hello"
   name = "Hannah Busshoff"
 
 # website title
-title = "My New Hugo Site"
+title = "Hannah Busshoff"
 
 [params.footer]
   enable = true
@@ -17,7 +17,7 @@ title = "My New Hugo Site"
   custom = ""
   # whether to show Hugo and theme info
   # 是否显示 Hugo 和主题信息
-  hugo = false
+  hugo = true
   # whether to show copyright info
   # 是否显示版权信息
   copyright = true
@@ -32,7 +32,7 @@ title = "My New Hugo Site"
   icp = ""
   # license info (HTML format is supported)
   # 许可协议信息 (支持 HTML 格式)
-  license= "MIT"
+  license= ""
 
   [params.home]
     # amount of RSS pages
@@ -73,6 +73,11 @@ title = "My New Hugo Site"
       paginate = 6
   # Social config in home page
   # 主页的社交信息设置
+  [[params.social]]
+  icon  = "icon-facebook"
+  title = "Connect with me on Facebook"
+  url   = "https://github.com/hannahbus"
+  
   [params.social]
     GitHub = "https://github.com/hannahbus"
     Linkedin = ""
