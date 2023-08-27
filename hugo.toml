@@ -73,12 +73,13 @@ title = "Hannah Busshoff"
       paginate = 6
   # Social config in home page
   # 主页的社交信息设置
-  [[params.social]]
-  icon  = "icon-facebook"
-  title = "Connect with me on Facebook"
-  url   = "https://github.com/hannahbus"
+ 
+  
   
   [params.social]
+    icon  = "icon-facebook"
+    title = "Connect with me on Facebook"
+    url   = "https://github.com/hannahbus"
     GitHub = "https://github.com/hannahbus"
     Linkedin = ""
     Twitter = "https://twitter.com/hannbus"
