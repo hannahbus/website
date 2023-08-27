@@ -153,6 +153,17 @@ title = "Hannah Busshoff"
     Phone = ""
     RSS = ""
 
+[languages.en.params.social]
+        GitHub = "xxxx"
+        Twitter = "xxxx"
+        Instagram = "xxxx"
+        Facebook = "xxxx"
+        Telegram = "xxxx"
+        Youtubelegacy = "xxxx"
+        Phone = "555-555-555"
+        Email = "xxxx@xxxx.com"
+        RSS = true
+
 # language code
 languageCode = "en"
 # language name
