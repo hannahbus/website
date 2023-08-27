@@ -17,7 +17,7 @@ title = "Hannah Busshoff"
   custom = ""
   # whether to show Hugo and theme info
   # 是否显示 Hugo 和主题信息
-  hugo = true
+  hugo = false
   # whether to show copyright info
   # 是否显示版权信息
   copyright = true
@@ -77,9 +77,6 @@ title = "Hannah Busshoff"
   
   
   [params.social]
-    icon  = "icon-facebook"
-    title = "Connect with me on Facebook"
-    url   = "https://github.com/hannahbus"
     GitHub = "https://github.com/hannahbus"
     Linkedin = ""
     Twitter = "https://twitter.com/hannbus"
