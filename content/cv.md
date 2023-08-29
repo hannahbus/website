@@ -53,7 +53,7 @@ since 2021
 
 since 2020
 
-: Tutor for Micreconomics II (Bachelor), University of St. Gallen
+: Tutor for Microeconomics II (Bachelor), University of St. Gallen
 
 2019
 
