@@ -35,11 +35,11 @@ Publications <span>&#9999;</span>
 
 - Bodory, Hugo, Hannah Busshoff, and Michael Lechner. "High Resolution Treatment Effects Estimation: Uncovering Effect Heterogeneities with the Modified Causal Forest." Entropy 24(8), 2022.
 
-- Gürtzgen, Nicole, Alexander Kubis, Martina Rebien, Enzo Weber, and Hannah Busshoff. ”Neueinstellungen auf Mindestlohnniveau Anforderungen und Besetzungsschwierigkeiten gestiegen”, IAB Jubiliäumsmagazin, 2017.
+- Gürtzgen, Nicole, Alexander Kubis, Martina Rebien, Enzo Weber, and Hannah Busshoff. ”Neueinstellungen auf Mindestlohnniveau Anforderungen und Besetzungsschwierigkeiten gestiegen.” IAB Jubiliäumsmagazin, 2017.
 
-- Lesch, Hagen, Sandra Vogel, Hannah Busshoff, and Adam Giza. ”Stärkung der Tarifbindung”, IW Policy Papers, 2017.
+- Lesch, Hagen, Sandra Vogel, Hannah Busshoff, and Adam Giza. ”Stärkung der Tarifbindung.” IW Policy Papers, 2017.
 
-- Busshoff, Hannah. ”Crowdworking: Ruf nach Regulierung”, Gewerkschaftsspiegel, 2016.
+- Busshoff, Hannah. ”Crowdworking: Ruf nach Regulierung.” Gewerkschaftsspiegel, 2016.
 
 Teaching Experience <span>&#127823;</span>
 ----------
@@ -68,7 +68,7 @@ Work Experience <span>&#129489;</span>
 ----------
 2020
 
-: Research Assistant at the Chair Information Systems for Sustainable Society, University of Cologne
+: Research Assistant at the Chair of Information Systems for Sustainable Society, University of Cologne
 
 
 2019
@@ -112,4 +112,4 @@ Miscellanious <span>&#127941;</span>
 ----------------------------------------
 
 - German Academic Scholarship Foundation (2016--2020)
-- German national winner ecopolicyade 2010
+- German national winner Ecopolicyade 2010
