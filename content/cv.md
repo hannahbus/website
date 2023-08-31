@@ -66,6 +66,10 @@ since 2020
 
 Work Experience <span>&#129489;</span>
 ----------
+since 2020
+
+: Research Assistant Swiss Institute for Empirical Economic Research (SEW), University of St. Gallen
+
 2020
 
 : Research Assistant at the Chair of Information Systems for Sustainable Society, University of Cologne
