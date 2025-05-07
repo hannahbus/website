@@ -5,7 +5,7 @@ date: 2023-08-25T09:27:47+02:00
 
 Education <span>&#128214;</span>
 ---------
-2020--2024 (expected)
+2020--2025 
 
 :   **Ph.D., Economics and Finance**, University of St. Gallen
 
