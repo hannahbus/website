@@ -62,8 +62,7 @@ title = "Hannah Busshoff"
       social = true
       # disclaimer (HTML format is supported)
       # 免责声明 (支持 HTML 格式)
-      disclaimer = """I am a Data Scientist and Ph.D. student in Applied Econometrics. My research
-      bridges machine learning and causal inference with applications in environmental and labor economics. """
+      disclaimer = """I am a Data Scientist and Ph.D. student in Applied Econometrics. My research focuses on causal machine learning, with an emphasis on its applications in policy learning. """
     # Home page posts
     # 主页文章列表
     [params.home.posts]
