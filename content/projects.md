@@ -17,3 +17,9 @@ joint with Michael Lechner
 This paper reviews, applies, and extends recently proposed methods for learning data-driven decision rules that exploit treatment effect heterogeneities. We juxtapose interpretable decision systems with black-box models, elucidating the trade-offs regarding explainability, vulnerability to misspecification, and computational complexity. We illustrate the application of policy learning methods through an assessment of training programmes. Our results offer practical insights for decision makers in pursuit of performant and trustworthy decision-making tools.
 
 Keywords— policy learning, data-driven decision making, heterogeneous treatment effects, mixed-integer optimization, neural networks
+
+Working Paper available upon request. 
+
+**Climate Risk Beliefs and Extreme Weather Events**
+
+We revisit the question of if and how agents update their climate risk perceptions against the backdrop of extreme weather events. The study combines 20 years of geo-located panel data with insurance and climate data. We find that community damage prompts individuals to update their risk perceptions. Drawing from causal machine learning, we find meaningful effect heterogeneity for groups as defined by prior political and climate risk attitudes, which is consistent with a theory of directed motivational reasoning.
