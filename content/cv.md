@@ -5,7 +5,7 @@ date: 2023-08-25T09:27:47+02:00
 
 Education <span>&#128214;</span>
 ---------
-2020--2025 
+2020--2025 (course phase 2020-2022)
 
 :   **Ph.D., Economics and Finance**, University of St. Gallen
 
@@ -43,7 +43,7 @@ Publications <span>&#9999;</span>
 
 Teaching Experience <span>&#127823;</span>
 ----------
-2023 (scheduled)
+2023-2024
 
 : Tutor for the Data Science Fundamentals (Bachelor), University of St. Gallen
 
