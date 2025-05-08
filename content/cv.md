@@ -51,7 +51,7 @@ since 2021
 
 : Tutor and Teaching Assistant for Data Analytics II (Master), University of St. Gallen
 
-since 2020
+2020--2025
 
 : Tutor for Microeconomics II (Bachelor), University of St. Gallen
 
