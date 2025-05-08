@@ -23,3 +23,8 @@ Working Paper available upon request.
 **Climate Risk Beliefs and Extreme Weather Events**
 
 We revisit the question of if and how agents update their climate risk perceptions against the backdrop of extreme weather events. The study combines 20 years of geo-located panel data with insurance and climate data. We find that community damage prompts individuals to update their risk perceptions. Drawing from causal machine learning, we find meaningful effect heterogeneity for groups as defined by prior political and climate risk attitudes, which is consistent with a theory of directed motivational reasoning.
+
+**High Resolution Treatment Effects Estimation: Uncovering Effect Heterogeneities with the Modified Causal Forest**
+joint with Hugo Bodory and Michael Lechner
+
+There is great demand for inferring causal effect heterogeneity and for open-source statistical software, which is readily available for practitioners. The mcf package is an open-source Python package that implements Modified Causal Forest (mcf), a causal machine learner. We replicate three well-known studies in the fields of epidemiology, medicine, and labor economics to demonstrate that our mcf package produces aggregate treatment effects, which align with previous results, and in addition, provides novel insights on causal effect heterogeneity. For all resolutions of treatment effects estimation, which can be identified, the mcf package provides inference. We conclude that the mcf constitutes a practical and extensive tool for a modern causal heterogeneous effects analysis.
