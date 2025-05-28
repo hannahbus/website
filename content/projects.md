@@ -20,10 +20,6 @@ Keywords— policy learning, data-driven decision making, heterogeneous treatmen
 
 Working Paper available upon request. 
 
-**Climate Risk Beliefs and Extreme Weather Events**
-
-We revisit the question of if and how agents update their climate risk perceptions against the backdrop of extreme weather events. The study combines 20 years of geo-located panel data with insurance and climate data. We find that community damage prompts individuals to update their risk perceptions. Drawing from causal machine learning, we find meaningful effect heterogeneity for groups as defined by prior political and climate risk attitudes, which is consistent with a theory of directed motivational reasoning.
-
 **High Resolution Treatment Effects Estimation: Uncovering Effect Heterogeneities with the Modified Causal Forest**
 joint with Hugo Bodory and Michael Lechner
 
